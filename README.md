@@ -44,7 +44,7 @@ permalink: /
 ### 게임
 - 드래곤볼 게임 컬렉션
 
-→ [게임 컬렉션으로 바로가기](./_collection/dragonball-games/)
+→ [게임 컬렉션으로 바로가기](./collection/dragonball-games/)
 
 ---
 
