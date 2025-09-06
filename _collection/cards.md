@@ -102,4 +102,4 @@ No|Type|Searching|Qty|Desc
 
 일현장소 우사기 컬렉션 북에 기록된 모든 내용은 무단 복제 및 도용이 금지 되어 있음을 알려 드립니다. 비영리 목적의 경우에는 연락을 부탁 드립니다. 원문 출처와 링크주소를 포함하여 저작권을 명시 하신다면 사용 허락 하겠습니다. 
 
-Copyright 2024 Usagi Studio. All Rights Reserved.
+Copyright 2025 Usagi Studio. All Rights Reserved.
